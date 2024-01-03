@@ -1,4 +1,4 @@
-# App École avec gestion des étudiants
+# App École avec gestion des étudiants // Projet en cours
 
 ## projet fullstack Django - Angular
 
